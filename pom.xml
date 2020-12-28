@@ -6,11 +6,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.bhuwanupadhyay</groupId>
-  <artifactId>outbox-pattern-spring-boot-starter</artifactId>
+  <artifactId>example-spring-boot-starter</artifactId>
   <version>1.0.0</version>
-  <name>outbox-pattern-spring-boot-starter</name>
-  <description>Library for Transaction Outbox Pattern using Spring Boot JPA</description>
-  <url>https://github.com/BhuwanUpadhyay/outbox-pattern-spring-boot-starter</url>
+  <name>example-spring-boot-starter</name>
+  <description>Library for Example starter for Spring Boot</description>
+  <url>https://github.com/BhuwanUpadhyay/example-spring-boot-starter</url>
 
   <developers>
     <developer>
@@ -25,19 +25,19 @@
     <license>
       <name>Apache License</name>
       <url>
-        https://github.com/BhuwanUpadhyay/outbox-pattern-spring-boot-starter/blob/main/LICENSE
+        https://github.com/BhuwanUpadhyay/example-spring-boot-starter/blob/main/LICENSE
       </url>
       <distribution>repo</distribution>
     </license>
   </licenses>
 
   <scm>
-    <connection>scm:git:git://github.com/BhuwanUpadhyay/outbox-pattern-spring-boot-starter.git
+    <connection>scm:git:git://github.com/BhuwanUpadhyay/example-spring-boot-starter.git
     </connection>
     <developerConnection>
-      scm:git:git@github.com:BhuwanUpadhyay/outbox-pattern-spring-boot-starter.git
+      scm:git:git@github.com:BhuwanUpadhyay/example-spring-boot-starter.git
     </developerConnection>
-    <url>https://github.com/BhuwanUpadhyay/outbox-pattern-spring-boot-starter</url>
+    <url>https://github.com/BhuwanUpadhyay/example-spring-boot-starter</url>
   </scm>
 
   <distributionManagement>
@@ -58,7 +58,7 @@
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
 
-    <sonar.projectKey>BhuwanUpadhyay_outbox-pattern-spring-boot-starter</sonar.projectKey>
+    <sonar.projectKey>BhuwanUpadhyay_example-spring-boot-starter</sonar.projectKey>
     <sonar.organization>bhuwanupadhyay</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 

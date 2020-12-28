@@ -1,27 +1,27 @@
-# Transaction Outbox Pattern using Spring Boot JPA [![Twitter](https://img.shields.io/twitter/follow/IAmVuwan.svg?style=social&logo=twitter&label=Follow%20Me)](https://twitter.com/IAmVuwan)
+# Example starter for Spring Boot [![Twitter](https://img.shields.io/twitter/follow/IAmVuwan.svg?style=social&logo=twitter&label=Follow%20Me)](https://twitter.com/IAmVuwan)
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.bhuwanupadhyay/outbox-pattern-spring-boot-starter)](https://repo1.maven.org/maven2/io/github/bhuwanupadhyay/outbox-pattern-spring-boot-starter/)
-[![Github Action](https://img.shields.io/github/workflow/status/BhuwanUpadhyay/outbox-pattern-spring-boot-starter/Build)](https://github.com/BhuwanUpadhyay/outbox-pattern-spring-boot-starter/actions?query=workflow%3ABuild)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=BhuwanUpadhyay_outbox-pattern-spring-boot-starter&metric=alert_status)](https://sonarcloud.io/dashboard?id=BhuwanUpadhyay_outbox-pattern-spring-boot-starter)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=BhuwanUpadhyay_outbox-pattern-spring-boot-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=BhuwanUpadhyay_outbox-pattern-spring-boot-starter)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=BhuwanUpadhyay_outbox-pattern-spring-boot-starter&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=BhuwanUpadhyay_outbox-pattern-spring-boot-starter)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.bhuwanupadhyay/example-spring-boot-starter)](https://repo1.maven.org/maven2/io/github/bhuwanupadhyay/example-spring-boot-starter/)
+[![Github Action](https://img.shields.io/github/workflow/status/BhuwanUpadhyay/example-spring-boot-starter/Build)](https://github.com/BhuwanUpadhyay/example-spring-boot-starter/actions?query=workflow%3ABuild)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=BhuwanUpadhyay_example-spring-boot-starter&metric=alert_status)](https://sonarcloud.io/dashboard?id=BhuwanUpadhyay_example-spring-boot-starter)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=BhuwanUpadhyay_example-spring-boot-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=BhuwanUpadhyay_example-spring-boot-starter)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=BhuwanUpadhyay_example-spring-boot-starter&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=BhuwanUpadhyay_example-spring-boot-starter)
 
 ## Usages
 
 This library helps to send logs automatically to Logstash.
 
 ## Features
-The main feature provided by `outbox-pattern-spring-boot-starter`: 
+The main feature provided by `example-spring-boot-starter`: 
 - automatically configured the spring boot application to send logs to Logstash.
 
 ## Getting started          
 
-Available on [Maven Central](https://repo1.maven.org/maven2/io/github/bhuwanupadhyay/outbox-pattern-spring-boot-starter/).
+Available on [Maven Central](https://repo1.maven.org/maven2/io/github/bhuwanupadhyay/example-spring-boot-starter/).
 
 ```
 <dependency>
   <groupId>io.github.bhuwanupadhyay</groupId>
-  <artifactId>outbox-pattern-spring-boot-starter</artifactId>
+  <artifactId>example-spring-boot-starter</artifactId>
   <version>1.0.3</version>
 </dependency>
 ```
